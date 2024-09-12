@@ -1,4 +1,4 @@
-# Zengarden - Website Designing Competition   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+# Zengarden ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 This repository contains the project submission for the **Zengarden** website designing competition, conducted by the **Google Developer Student Clubs (GDSC)**. I secured **second place** in this competition, showcasing my web design and development skills using modern web technologies.
 
 ## Competition Overview
